@@ -1,1 +1,1 @@
-# jenkins-monitor-proxy-master
+# jenkins-monitor-proxy
